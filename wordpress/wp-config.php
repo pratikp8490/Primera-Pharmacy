@@ -1,4 +1,10 @@
 <?php
+
+// BEGIN iThemes Security - Do not modify or remove this line
+// iThemes Security Config Details: 2
+define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
+// END iThemes Security - Do not modify or remove this line
+
 /**
  * The base configuration for WordPress
  *
@@ -46,14 +52,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'Z:[5>fVmoFVnfHF5/-.X`<`)@8A4Aeo?Do5m?eIU!0j.;REm{TPC2YgD&OwN&W`r' );
-define( 'SECURE_AUTH_KEY',  '@Vk?Ky<EUbHXDOnG>KL8@[9*L2jkaDM+D$%a|-EG=S`uOa79|i,|G%NQ{Tdh+5h3' );
-define( 'LOGGED_IN_KEY',    'Kh$H@zM=Nq6~FYLDquA}VK*U7&_9Keud&p`+EN3Wy(G.A_!m~a(i#yVrmsV(JkZO' );
-define( 'NONCE_KEY',        '-aJuTLZl-g>%$$pqKUcp+N>0MA/DpZ13M+dF(TY;w+P@CW.Ulk, ~k#w9:eGgKyk' );
-define( 'AUTH_SALT',        'Mb0OK c*SI!I2,g2-I^`1ewth9Mg^%(K8:X#Iiy:DRG%59IBRAF*oC*pM|,n;i?%' );
-define( 'SECURE_AUTH_SALT', 'a:Vn|3rdq8Kq1o;^GR`*+]sn74-;sF(jhXbh%x: O]34j:hnTgb(#Yv~yIT>8n>$' );
-define( 'LOGGED_IN_SALT',   'XJtuGWm1NAz@ud;:2pJ-o^C!0k4 #`Uhm7C/x|pC=ZC$~TSw*N2oBAZ+=h/[hi$W' );
-define( 'NONCE_SALT',       'B/WjCNUVRIKh?),Kq&:<a!Fi-K%s~gv@bvd5LB=D}k TuieR$tunaE&dfafl_Jg9' );
+define( 'AUTH_KEY',         'X1SrBh6|-eKXsjQhB3P,yU;J96JuJ9bxR{2@|v-k*PPjw#An)7t~fOQ+}![2+_IE' );
+define( 'SECURE_AUTH_KEY',  'Pu5o2RxDvXhi.2YW@,,C*q9&k`;f<B:_^0DmR/3nTP`VIFN(9nG[+;m200AIyh<q' );
+define( 'LOGGED_IN_KEY',    'o[TOdI3RG817x{S//xJW_ZtLnWt}Ow8T=YLRA)|Fx~J!)zPFC2A]7lzCgMIf90!z' );
+define( 'NONCE_KEY',        '=*z5MSWmUM7r8int~UN+%nfq)lK]/>,4+I7r(-jt(}K-**`v,BFslWOqL}ryffj@' );
+define( 'AUTH_SALT',        'POCoO7rZJ!/~F,fuQ6f#MT0LKa4Uu=p`cR}BURWQr28q_YFV[g-|mpus~+9{fj8G' );
+define( 'SECURE_AUTH_SALT', '6X3Fjw(J@%j,v[$/}=NU:!ZEs+VTfbL92bBUvQfO@-qE]cgd5W!Ju<}se ` 83UH' );
+define( 'LOGGED_IN_SALT',   '><vxpUpysw|DFTOvHkIEu.=QQsZJ!=NB$xlZ|N1E>O&Uh+3=DZntCKSQ*)vJ^B9T' );
+define( 'NONCE_SALT',       '90w_0JETE5$ `okK,rB>_gS?kR3qZ++/rgv2_BL;z%;oy[+mEReQ@fqI;bwRZG;$' );
 
 /**#@-*/
 
